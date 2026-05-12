@@ -866,7 +866,7 @@ export const backendQuestions = [
       "edit",
       "almashtirish",
     ],
-    idealAnswer: "Ma'lumotni to'liq yangilash uchun.",
+    idealAnswer: "Ma'lumotni yangilash uchun.",
     options: [
       "Parol yuborish",
       "Ma'lumotni to'liq yangilash uchun",
